@@ -105,3 +105,6 @@ Our analysis yielded the following key insights:
 - Our project has unveiled significant trends within the real estate market, helping users stay informed about market dynamics. For example, we can identify areas experiencing price increases or decreases and potential hotspots for investment.
 
 ### 🏷️User Empowerment
+-Our House Price Prediction project is dedicated to empowering individuals in the real estate market with data-driven insights and user-friendly tools.
+
+![Screenshot 2023-10-31 231538](https://github.com/arghya2204/xyz/assets/114871781/56c5ba4d-bc5a-429a-a908-68fcf8f4cb1e)
